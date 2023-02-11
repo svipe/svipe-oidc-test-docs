@@ -18,11 +18,6 @@ This repo contains a bash script that showcases this using curl, and supports th
 * **--client_id**
 * **--client_secret**
 
-Here are the supported test documents:
-
-
-
-
 Sample usage:
 
     ./test_authcode_testdoc.bash \
