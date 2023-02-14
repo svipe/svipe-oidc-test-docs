@@ -41,17 +41,17 @@ which results in:
         "email_verified": true,
         "phone_number": "+468123456",
         "phone_number_verified": true,
-        "svipeid": "0d320267183d183554aa00a546d130dd",
+        "com.svipe:document_type": "P",
         "com.svipe:document_type_sdn": "PN",
         "com.svipe:document_type_sdn_en": "Passport",
+        "com.svipe:document_issuing_country": "SWE",
         "com.svipe:document_issuing_country_en": "Sweden",
-        "com.svipe:document_nationality_en": "Sweden",
-        "com.svipe:svipeid": "0d320267183d183554aa00a546d130dd",
         "com.svipe:document_nationality": "SWE",
-        "com.svipe:document_type": "P",
+        "com.svipe:document_nationality_en": "Sweden",
         "com.svipe:document_administrative_number": "198208212384",
         "com.svipe:document_number": "XA0000001",
-        "com.svipe:document_issuing_country": "SWE",
         "com.svipe:document_expiry_date": "2027-01-01",
+        "com.svipe:svipeid": "0d320267183d183554aa00a546d130dd",
         "com.svipe:meta_transaction_id": "AYZAJepa.pU9d4yIK_Y5HsW_cULBhUCzulJ56boQF38SGZMpR"
     }
+
